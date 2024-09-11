@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BarbashinAV.Sprint0.Task0.V0", "Tyuiu.BarbashinAV.Sprint0.Task0.V0\Tyuiu.BarbashinAV.Sprint0.Task0.V0.csproj", "{8226CB68-8FFF-480B-94B0-F363F1779810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BarbashinAV.Sprint0.Task0.V0", "Tyuiu.BarbashinAV.Sprint0.Task0.V0\Tyuiu.BarbashinAV.Sprint0.Task0.V0.csproj", "{8226CB68-8FFF-480B-94B0-F363F1779810}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{6AB7BE48-5CB4-4D91-916E-8D63B5F1307C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BarbashinAV.Sprint0.Task1.V0", "Tyuiu.BarbashinAV.Sprint0.Task1.V0\Tyuiu.BarbashinAV.Sprint0.Task1.V0.csproj", "{86090673-7A64-46C9-B12F-FAA57DB4F57A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{8226CB68-8FFF-480B-94B0-F363F1779810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8226CB68-8FFF-480B-94B0-F363F1779810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8226CB68-8FFF-480B-94B0-F363F1779810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86090673-7A64-46C9-B12F-FAA57DB4F57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86090673-7A64-46C9-B12F-FAA57DB4F57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86090673-7A64-46C9-B12F-FAA57DB4F57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86090673-7A64-46C9-B12F-FAA57DB4F57A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86090673-7A64-46C9-B12F-FAA57DB4F57A} = {6AB7BE48-5CB4-4D91-916E-8D63B5F1307C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B6428DF6-DDE3-445A-BED8-51AFC281E3C4}
